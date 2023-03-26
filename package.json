@@ -1,0 +1,24 @@
+{
+  "name": "es-lint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vaibhzz101/ES-lint.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vaibhzz101/ES-lint/issues"
+  },
+  "homepage": "https://github.com/vaibhzz101/ES-lint#readme",
+  "dependencies": {
+    "eslint": "^8.36.0",
+    "shortid": "^2.2.16"
+  }
+}
